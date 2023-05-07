@@ -7,8 +7,4 @@ venue: IEEE Transactions on Neural Networks and Learning Systems
 paperurl: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357940
 ---
 
-<!-- This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
