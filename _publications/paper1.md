@@ -4,7 +4,7 @@ teaser: butterfly.png
 date: 2022-01-01
 author: Yue Wu, Jiaheng Li, <b>Yongzhe Yuan</b>, AK Qin, Qi-Guang Miao, Mao-Guo Gong*
 venue: IEEE Transactions on Neural Networks and Learning Systems
-paperurl: [https://arxiv.org/abs/2209.13774](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357940)
+paperurl: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357940
 <!-- codeurl: https://github.com/alexzhou907/butterflyflow -->
 ---
 
