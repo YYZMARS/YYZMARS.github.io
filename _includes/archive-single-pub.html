@@ -27,9 +27,8 @@
             </b><br>
             {{ post.author }}<br>
             {{ post.venue }}<br>
-            <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-            Published in {{ post.date}}<br>
-
+            <i class="fas fa-fw fa-calendar" aria-hidden="true"></i> Published in {{ post.date}}<br>
+            
             <span style="display: block; margin-top:4px">
                 {% if post.paperurl %}
                   <a href="{{ post.paperurl }}" style="text-decoration:none">pdf</a>
