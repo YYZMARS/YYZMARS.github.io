@@ -24,16 +24,27 @@
         <p class="archive__item">
             <b>{{ title }}</b>
 <!--             <a href="" style="pointer-events:none;text-decoration:none;color:#ff0000">h</a> -->
-          <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA">{{ post.tag1 }}</a>
-          <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA">{{ post.tag2 }}</a>
-          <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA">{{ post.tag3 }}</a>
-          <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA">{{ post.tag4 }}</a>
-          <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA">{{ post.tag5 }}</a>
+          {% if post.tag1 %}
+            <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA;font-size:16px">{{ post.tag1 }}</a>
+          {% endif %}
+          {% if post.tag2 %}
+            <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA;font-size:16px">{{ post.tag2 }}</a>
+          {% endif %}
+          {% if post.tag3 %}
+            <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA;font-size:16px">{{ post.tag3 }}</a>
+          {% endif %}
+          {% if post.tag4 %}
+            <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA;font-size:16px">{{ post.tag4 }}</a>
+          {% endif %}
+          {% if post.tag5 %}
+            <a href="" class="page__taxonomy-item" rel="tag" style="pointer-events:none;text-decoration:none;color:	#87CEFA;font-size:16px">{{ post.tag5 }}</a>
+          {% endif %}
+          
           <br>
-            <i class="fas fa-edit fa-sm" aria-hidden="true"></i> {{ post.author }}<br>
+            <i class="fas fa-edit fa-1x" aria-hidden="true"></i> {{ post.author }}<br>
             {{ post.venue }}<br>
             
-            <i class="fas fa-fw fa-calendar" aria-hidden="true"></i> Published in <time pubdate>{{ post.date }}</time><br>
+            <i class="fas fa-fw fa-user-o" aria-hidden="true"></i> Published in <time pubdate>{{ post.date }}</time><br>
             
           
             <span style="display: block; margin-top:4px">
