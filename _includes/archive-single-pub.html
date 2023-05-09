@@ -45,10 +45,12 @@
             {{ post.venue }}<br>
             
             <i class="fas fa-fw fa-calendar" aria-hidden="true"></i> 
+            Published: 
             <script>
               var date = new Date({{ post.date }}.replace(/-/g,'/'));
+              document.body.innerText=date
             </script>
-            Published: date
+            
             
           
             <span style="display: block; margin-top:4px">
