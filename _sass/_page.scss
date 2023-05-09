@@ -73,15 +73,25 @@
   }
 
   a {
-    text-decoration: underline;
-
+    color: #1d63a1;
+    text-decoration: none;
+    -webkit-filter: brightness(100%);
     &:hover {
       text-decoration: underline;
 
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+      //img {
+      //  box-shadow: 0 0 10px rgba(#000, 0.25);
+      //}
     }
+  }
+
+  a:hover {
+      -webkit-filter: brightness(200%);
+      -webkit-transition: all 1s ease;
+      -moz-transition: all 1s ease;
+      -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+      transition: all 1s ease;
   }
 
   dt {
