@@ -1,0 +1,9 @@
+---
+title: "Commonality Autoencoder: Learning Common Features for Change Detection from Heterogeneous Images" 
+teaser: paper1.png
+date: 2021-02-18
+author: Yue Wu*, <b>Yongzhe Yuan</b>*, AK Qin, Qi-Guang Miao, Mao-Guo Gong
+tag1: Point Cloud Registration
+venue: IEEE Transactions on Neural Networks and Learning Systems
+paperurl: https://ieeexplore.ieee.org/abstract/document/9357940
+---
