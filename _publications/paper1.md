@@ -1,9 +1,9 @@
 ---
-title: "ButterflyFlow: Building Invertible Layers with Butterfly Matrices"
+title: "Commonality autoencoder: Learning common features for change detection from heterogeneous images"
 teaser: image-alignment-1200x4002.jpg
 date: 2022-01-01
-author: Chenlin Meng*, <b>Linqi Zhou*</b>, Kristy Choi*, Tri Dao, Stefano Ermon
-venue: ICML 2022
-paperurl: https://arxiv.org/abs/2209.13774
-codeurl: https://github.com/alexzhou907/butterflyflow
+author: Yue Wu, Jiaheng Li, <b>Yongzhe Yuan</b>, AK Qin, Qi-Guang Miao, Mao-Guo Gong
+venue: IEEE transactions on neural networks and learning systems
+paperurl: none
+codeurl: none
 ---
