@@ -27,7 +27,9 @@
             </b><br>
             {{ post.author }}<br>
             {{ post.venue }}<br>
-            <i class="fas fa-fw fa-calendar" aria-hidden="true"></i> Published in {{ post.date}}<br>
+            <strong>
+            <i class="fas fa-fw fa-calendar" aria-hidden="true"></i>::before Published in {{ post.date}}<br>
+            </strong>
             
             <span style="display: block; margin-top:4px">
                 {% if post.paperurl %}
