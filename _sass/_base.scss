@@ -126,6 +126,11 @@ a {
 
 tt, code, kbd, samp, pre {
   font-family: $monospace;
+  font-size: 15px;
+  background-color: rgb(240, 240, 240);
+  align-content: center;
+  padding: 5px 0 15px 15px;
+  border-radius: 5px;
 }
 
 pre {
