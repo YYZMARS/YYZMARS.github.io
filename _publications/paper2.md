@@ -1,6 +1,6 @@
 ---
 title: "Feature Mining Method of Multi-dimensional Information Fusion in Point Cloud Registration (in Chinese)" 
-teaser: paper1.png
+teaser: paper2.png
 date: 2022-08-01
 dd: August 01, 2022
 author: Yue Wu*, <b>Yongzhe Yuan</b>*, Yue Mingyu, Gong Maoguo, Li Hao, Zhang Mingyang, Ma Wenping, Miao Qiguang
