@@ -45,7 +45,10 @@
             {{ post.venue }}<br>
             
             <i class="fas fa-fw fa-calendar" aria-hidden="true"></i> 
-            Published: <time pubdate>{{ post.date }}</time><br>
+            <script>
+              var date = new Date({{ post.date }}.replace(/-/g,'/'));
+            </script>
+            Published: date
             
           
             <span style="display: block; margin-top:4px">
