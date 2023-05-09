@@ -27,10 +27,12 @@
             </b><br>
             {{ post.author }}<br>
             {{ post.venue }}<br>
-            <strong>
-            <i class="fas fa-fw fa-calendar" aria-hidden="true"></i>::before Published in {{ post.date}}<br>
-            </strong>
             
+            <i class="fas fa-fw fa-calendar" aria-hidden="true"></i> Published in 
+            <time datetime="2022-05-20T00:00:00-07:00">{{ post.date }}</time>
+            <br>
+            
+          
             <span style="display: block; margin-top:4px">
                 {% if post.paperurl %}
                   <a href="{{ post.paperurl }}" style="text-decoration:none">pdf</a>
