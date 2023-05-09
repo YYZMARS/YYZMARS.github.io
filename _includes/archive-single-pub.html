@@ -27,7 +27,7 @@
             </b><br>
             {{ post.author }}<br>
             {{ post.venue }}<br>
-            {{ post.date }}<br>
+            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 
             <span style="display: block; margin-top:4px">
                 {% if post.paperurl %}
