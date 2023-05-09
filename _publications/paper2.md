@@ -1,9 +1,9 @@
 ---
-title: "Commonality Autoencoder: Learning Common Features for Change Detection from Heterogeneous Images" 
+title: "Feature Mining Method of Multi-dimensional Information Fusion in Point Cloud Registration" (in Chinese)
 teaser: paper1.png
 date: 2021-02-18
-author: Yue Wu*, <b>Yongzhe Yuan</b>*, AK Qin, Qi-Guang Miao, Mao-Guo Gong
+author: Yue Wu\*, <b>Yongzhe Yuan</b>\*, Yue Mingyu, Gong Maoguo, Li Hao, Zhang Mingyang, Ma Wenping, Miao Qiguang
 tag1: Point Cloud Registration
-venue: IEEE Transactions on Neural Networks and Learning Systems
-paperurl: https://ieeexplore.ieee.org/abstract/document/9357940
+venue: Journal of Computer Research and Development 
+paperurl: https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.20220042
 ---
