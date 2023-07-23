@@ -6,5 +6,5 @@ dd: In press
 author: Wenping Ma, Mingyu Yue, Yue Wu, <b>Yongzhe Yuan</b>, Hao Zhu, Biao Hou and Licheng Jiao
 tag1: Point Cloud Registration
 venue: IEEE Transactions on Neural Networks and Learning Systems 
-paperurl: 
+paperurl: https://ieeexplore.ieee.org/abstract/document/10185932
 ---
