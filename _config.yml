@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yongzhe Yuan's Homepage"
 title_separator          : 
-name                     : "Yongzhe Yuan"
+name                     : "Yongzhe Yuan's Homepage"
 description              : 
 url                      : https://yyzmars.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
