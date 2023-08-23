@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yongzhe Yuan's Homepage"
-title_separator          : "Yongzhe Yuan's Homepage"
+title_separator          : 
 name                     : "Yongzhe Yuan's Homepage"
 description              : 
 url                      : https://yyzmars.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
