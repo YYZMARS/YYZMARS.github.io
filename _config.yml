@@ -16,6 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 dataurl                  : https://yyzmars.github.io
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : /images/icon.png
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
