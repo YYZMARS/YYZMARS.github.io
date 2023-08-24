@@ -12,6 +12,7 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://web.
 
 <h1>Awards</h1>
 - The First Prize at the 7th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, 2022.
+- National Scholarship for Graduate Excellence, 2021.
 
 <br>
 <br>
