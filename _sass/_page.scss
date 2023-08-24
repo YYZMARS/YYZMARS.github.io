@@ -19,7 +19,7 @@
 .page {
   @include breakpoint($large) {
     width: 80%;
-    padding-left: 0%;
+    padding-left: 2%;
     padding-right: 2%;
     float: right;
     margin-right: 0;
