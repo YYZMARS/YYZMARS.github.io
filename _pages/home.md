@@ -24,12 +24,6 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://web.
 
 
 <br>
+<br>
+<br>
 {% include earth.html %} 
-<br>
-<br>
-<!-- <div align="center">
-  <div style="height:200px; width:200px;"> 
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=kEGWx5xRzLgUUkOxlG1SruDmPMQCo2Y60nBPxGxozrw"></script>
-  </div>
-</div> -->
-
