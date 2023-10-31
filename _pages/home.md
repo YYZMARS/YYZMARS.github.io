@@ -17,6 +17,14 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://web.
 - Multimodal Learning for 3D Computer Vision.
 - Diffusion Model.
 
+<h1 id="publications"> Publications</h1>
+
+<hr style="width:80%;text-align:left;margin-left:0">
+
+{% for post in site.publications reversed %}
+  {% include archive-single-pub.html %}
+{% endfor %}
+
 <h1>Awards</h1>
 - The First Prize at the 7th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, 2022.
 - National Scholarship, 2021.
