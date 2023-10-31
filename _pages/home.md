@@ -24,7 +24,7 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://web.
 
 
 <br>
-{% include archive-single-cv.html %} 
+{% include earth.html %} 
 <br>
 <br>
 <div align="center">
