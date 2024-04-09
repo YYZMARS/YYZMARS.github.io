@@ -1,6 +1,6 @@
 .archive__item-image {
     display: inline-block;
-    padding-right: 1em;
+/*     padding-right: 1em; */
     vertical-align: middle;
     width: 20%;
 }
