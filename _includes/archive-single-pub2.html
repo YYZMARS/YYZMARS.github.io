@@ -21,13 +21,13 @@
             <b>{{ title }}</b> 
           <br>
                 {% if post.paperurl %}
-                  <a href="{{ post.paperurl }}" style="text-decoration:none">pdf</a>
+                  <a href="{{ post.paperurl }}" style="text-decoration:none">Paper</a>
                 {% endif %}
                 {% if post.pageurl %}
                   <a href="{{ post.pageurl | prepend: base_path }}" style="text-decoration:none">website</a>
                 {% endif %}
                 {% if post.codeurl %}
-                  <a href="{{ post.codeurl }}" style="text-decoration:none">code</a>
+                  <a href="{{ post.codeurl }}" style="text-decoration:none">Code</a>
                 {% endif %}
                 {% if post.bibtexurl %}
                   <a target="_blank" href="{{ post.bibtexurl }}" style="text-decoration:none">bibtex</a>
