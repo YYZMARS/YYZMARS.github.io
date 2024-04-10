@@ -16,6 +16,13 @@
   clear: both;
 }
 
+.archive__item-entry .archive__item{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 1px;
+    margin-bottom: 8px;
+}
+
 .archive__item-entry .archive__item a {
 color: #1d63a1;
 text-decoration: none;
