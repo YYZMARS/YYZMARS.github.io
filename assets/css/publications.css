@@ -10,12 +10,11 @@
     width: 80%;
 
 }
-.list__item:after {
+/* .list__item:after {
   content: "";
   display: block;
   clear: both;
-
-}
+} */
 .archive__item-entry .archive__item a {
 color: #1d63a1;
 text-decoration: none;
