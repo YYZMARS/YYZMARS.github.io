@@ -6,8 +6,6 @@
 }
 .archive__item-entry {
     display: inline-block;
-    padding-top: 1px;
-    padding-bottom: 1px;
     vertical-align: middle;
     width: 80%;
 
