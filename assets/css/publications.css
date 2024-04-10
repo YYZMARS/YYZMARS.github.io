@@ -15,7 +15,7 @@
   display: table;
   clear: both;
 }
-.archive__item-entry .archive__item{
+.archive__item-entry p{
     margin-top: 1px;
     margin-bottom: 1px;
 }
