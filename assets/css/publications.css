@@ -15,6 +15,11 @@
   display: table;
   clear: both;
 }
+.archive__item-entry .archive__item{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
 .archive__item-entry .archive__item a {
 color: #1d63a1;
 text-decoration: none;
@@ -39,8 +44,5 @@ text-decoration: none;
   transition: all 1s ease;
 }
 
-.archive__item-entry .archive__item{
-    padding-top: 1px;
-    padding-bottom: 1px;
-}
+
 
