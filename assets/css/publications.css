@@ -17,9 +17,9 @@
 }
 
 .archive__item-entry .archive__item{
+    padding-left: 18px;
     padding-top: 1px;
     padding-bottom: 1px;
-    padding-left: 18px;
     margin-top: 1px;
     margin-bottom: 8px;
 }
