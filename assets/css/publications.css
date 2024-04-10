@@ -12,7 +12,7 @@
 }
 .list__item:after {
   content: "";
-  display: table;
+  display: block;
   clear: both;
 
 }
