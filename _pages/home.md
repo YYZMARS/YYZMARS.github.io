@@ -24,6 +24,3 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://web.
 - National Scholarship, 2021.
 
 
-<br>
-<br>
-{% include earth.html %} 
