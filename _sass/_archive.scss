@@ -91,7 +91,7 @@
 
 .list__item {
   @include breakpoint($medium) {
-    position: relative;
+    // position: relative;
     padding-right: $right-sidebar-width-narrow;
   }
 
