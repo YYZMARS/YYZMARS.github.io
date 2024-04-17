@@ -3,6 +3,9 @@
 /*     padding-right: 1em; */
     vertical-align: middle;
     width: 20%;
+    position: relative;
+	overflow: hidden;
+	background-color: #E7F1FF;
 }
 .archive__item-entry {
     display: inline-block;
