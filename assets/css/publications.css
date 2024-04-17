@@ -1,5 +1,5 @@
 .archive__item-image {
-    display: inline-block;
+    display: flex;
 /*     padding-right: 1em; */
     vertical-align: middle;
     width: 20%;
