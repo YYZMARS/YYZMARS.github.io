@@ -8,7 +8,6 @@
     display: inline-block;
     vertical-align: middle;
     width: 80%;
-    position: relative;
 }
 
 .archive__item-image .label{
