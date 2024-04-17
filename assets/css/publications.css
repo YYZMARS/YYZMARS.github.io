@@ -20,7 +20,7 @@
   clear: both;
 }
 
-.list__item .label{
+.list__item:after .label{
     position: absolute;
     bottom: 0;
     left: 0;  
