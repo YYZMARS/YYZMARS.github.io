@@ -16,7 +16,8 @@
 <div class="{{ include.type | default: "list" }}__item" style="font-size: 20px;">
     <div class="archive__item-image">
       <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: "/images/publications/" | prepend: data_path }}" {% endif %} alt="MISSING IMG">
-      <span style="position:absolute; left:0; top:1%;"><font color="#FF0000">label</font></span>
+      <span class="label"><font color="#FF0000">label</font></span>
+      <div class="triangle-topleft"></div>
     </div>
 
     <div class="archive__item-entry">
