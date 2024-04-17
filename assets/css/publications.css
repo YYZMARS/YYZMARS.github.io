@@ -14,11 +14,19 @@
 }
 
 
-
 .list__item:after {
   content: "";
   display: table;
   clear: both;
+}
+
+.list__item:after .label{
+    position: absolute;
+    bottom: 0;
+    left: 0;  
+    width: 240px; 
+    height: 25px
+    color: #E7F1FF;
 }
 
 .archive__item-entry .archive__item{
