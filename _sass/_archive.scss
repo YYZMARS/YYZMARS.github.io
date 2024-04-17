@@ -107,6 +107,15 @@
   }
 }
 
+.list__item .label{
+    position: absolute;
+    bottom: 0;
+    left: 0;  
+    width: 240px; 
+    height: 25px
+    color: #E7F1FF;
+}
+
 
 /*
    Grid view
