@@ -1,5 +1,6 @@
 .archive__item-image {
     display: flex;
+    flex-wrap: wrap;
 /*     padding-right: 1em; */
     vertical-align: middle;
     width: 20%;
@@ -12,9 +13,10 @@
 }
 
 .archive__item-image .label{
-    display: inline-block;
-    transform: rotate(-45deg);
-    padding: 20px;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
     color: #fff;
 }
 
