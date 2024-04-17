@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<!-- <hr style="width:100%;text-align:left;margin-left:0"> -->
+<hr style="width:100%;text-align:left;margin-left:0">
 <div class="{{ include.type | default: "list" }}__item" style="font-size: 20px;">
     <div class="archive__item-image">
       <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: "/images/publications/" | prepend: data_path }}" {% endif %} alt="MISSING IMG">
