@@ -14,11 +14,12 @@
 }
 
 .archive__item-image .label{
-    position: relative;
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;  
+    width: 240px; 
+    height: 25px
+    color: #E7F1FF;
 }
 
 .list__item:after {
