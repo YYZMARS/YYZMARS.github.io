@@ -1,3 +1,12 @@
+.label{
+    position: absolute;
+    bottom: 0;
+    left: 0;  
+    width: 240px; 
+    height: 25px
+    color: #E7F1FF;
+}
+
 .archive__item-image {
     display: inline-block;
 /*     padding-right: 1em; */
@@ -20,14 +29,6 @@
   clear: both;
 }
 
-.list__item .label{
-    position: absolute;
-    bottom: 0;
-    left: 0;  
-    width: 240px; 
-    height: 25px
-    color: #E7F1FF;
-}
 
 .archive__item-entry .archive__item{
     padding-left: 18px;
