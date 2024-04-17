@@ -7,7 +7,7 @@ dd: February 18, 2021
 author: <b>Yongzhe Yuan</b>, Yue Wu, Jiayi Lei, Congying Hu, Maoguo Gong, Xiaolong Fan, Wenping Ma, Qiguang Miao
 tag1: Point Cloud Registration
 tag2: Dual Quaternion
-venue: IEEE Transactions on Instrumentation and Measurement (SCI Q2 TOP)
+venue: IEEE Transactions on Instrumentation and Measurement <b>(SCI Q2 TOP)</b>
 paperurl: https://ieeexplore.ieee.org/abstract/document/10381830
 codeurl: https://ieeexplore.ieee.org/abstract/document/9357940
 ---
