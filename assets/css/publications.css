@@ -11,7 +11,7 @@
     position: relative;
 }
 
-.archive__item-entry .label{
+.archive__item-image .label{
     display: inline-block;
     transform: rotate(-45deg);
     padding: 20px;
