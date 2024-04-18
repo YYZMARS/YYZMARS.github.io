@@ -14,10 +14,12 @@
 
 <!-- <hr style="width:100%;text-align:left;margin-left:0"> -->
 <div class="{{ include.type | default: "list" }}__item" style="font-size: 20px;">
+  <div class="position__label">
     <div class="label">
       <span style="color: white;font-family: Times New Roman;font-weight: bold">
               {{ post.label }}</span>
     </div>
+  </div>
     <div class="archive__item-image">
       <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: "/images/publications/" | prepend: data_path }}" {% endif %} alt="MISSING IMG">
     </div>
