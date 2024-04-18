@@ -1,3 +1,6 @@
+.position__label{
+    position: relative;
+}
 .label{
     position: absolute;
     bottom: 74%;
