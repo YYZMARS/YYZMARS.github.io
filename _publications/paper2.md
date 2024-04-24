@@ -10,5 +10,6 @@ tag2: Transformer
 venue: IEEE Transactions on Visualization and Computer Graphics <b>(CCF A)</b>
 paperurl: https://ieeexplore.ieee.org/abstract/document/10319695
 codeurl: https://ieeexplore.ieee.org/abstract/document/10319695
+bibtexurl: /bibtex/EGST.txt
 ---
 
