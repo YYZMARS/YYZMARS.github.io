@@ -24,9 +24,9 @@
   }
 
   .page__inner-wrap {
-    margin-left: 20px 
+    
     @include full();
-
+    margin-left: 20px; 
     .page__content,
     .page__meta,
     .page__share {
