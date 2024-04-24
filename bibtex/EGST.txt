@@ -8,3 +8,11 @@
   pages={1-13},
   doi={10.1109/TVCG.2023.3329578}
 }
+
+@article{yuan2023egst,
+  title={EGST: Enhanced Geometric Structure Transformer for Point Cloud Registration},
+  author={Yuan, Yongzhe and Wu, Yue and Fan, Xiaolong and Gong, Maoguo and Ma, Wenping and Miao, Qiguang},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2023},
+  publisher={IEEE}
+}
