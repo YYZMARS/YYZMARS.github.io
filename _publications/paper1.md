@@ -10,4 +10,5 @@ tag2: Change Detection
 venue: IEEE Transactions on Neural Networks and Learning Systems
 paperurl: https://ieeexplore.ieee.org/abstract/document/9357940
 codeurl: https://github.com/ywuchina/TeamCode/tree/main/COAE
+bibtexurl: /bibtex/COAE.txt
 ---
