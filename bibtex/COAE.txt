@@ -1,21 +1,9 @@
-@ARTICLE{9357940,
-  author={Wu, Yue and Li, Jiaheng and Yuan, Yongzhe and Qin, A. K. and Miao, Qi-Guang and Gong, Mao-Guo},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Commonality Autoencoder: Learning Common Features for Change Detection From Heterogeneous Images}, 
-  year={2022},
-  volume={33},
-  number={9},
-  pages={4257-4270},
-  doi={10.1109/TNNLS.2021.3056238}
-}
-
 @article{wu2021commonality,
-  title={Commonality autoencoder: Learning common features for change detection from heterogeneous images},
+  title={Commonality Autoencoder: Learning Common Features for Change Detection from Heterogeneous Images},
   author={Wu, Yue and Li, Jiaheng and Yuan, Yongzhe and Qin, A Kai and Miao, Qi-Guang and Gong, Mao-Guo},
-  journal={IEEE transactions on neural networks and learning systems},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   volume={33},
   number={9},
   pages={4257--4270},
-  year={2021},
-  publisher={IEEE}
+  year={2021}
 }
