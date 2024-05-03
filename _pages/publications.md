@@ -13,9 +13,6 @@ author_profile: true
 
 
 {% for post in site.publications reversed %}
-Journal<br>
-  {% include archive-single-pub2.html %}<br>
-Conference<br>
-{% include archive-single-pub.html %}
+  {% include archive-single-pub2.html %}
 {% endfor %}
 
