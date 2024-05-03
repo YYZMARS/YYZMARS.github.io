@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+
+{% for post in site.publications reversed %}
 Journal<br>
-{% for post in site.publications reversed %}
-  {% include archive-single-pub2.html %}
-{% endfor %}<br>
+  {% include archive-single-pub2.html %}<br>
 Conference<br>
-{% for post in site.publications reversed %}
-  {% include archive-single-pub.html %}
+{% include archive-single-pub.html %}
 {% endfor %}
+
