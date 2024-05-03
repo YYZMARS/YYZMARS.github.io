@@ -26,9 +26,9 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://web.
 
 
 <h1>📖 Representative Works</h1>
-<h2 style="margin: 1em 0 0.5em">Journal</h2>
+<h2 style="margin: 0 0 0 0">Journal</h2>
 {% for post in site.publications_j reversed %} {% include archive-single-pub2.html %} {% endfor %}
-<h2 style="margin: 1em 0 0.5em">Conference</h2>
+<h2 style="margin: 0 0 0 0">Conference</h2>
 {% for post in site.publications_c reversed %} {% include archive-single-pub2.html %} {% endfor %}
 
 
