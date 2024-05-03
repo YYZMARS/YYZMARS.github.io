@@ -26,6 +26,8 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://web.
 
 
 <h1>📖 Representative Works</h1>
+{% for post in site.publications_j reversed %} {% include archive-single-pub2.html %} {% endfor %}
+
 {% for post in site.publications_c reversed %} {% include archive-single-pub2.html %} {% endfor %}
 
 
