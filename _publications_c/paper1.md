@@ -2,7 +2,7 @@
 title: "Inlier Confidence Calibration for Point Cloud Registration" 
 teaser: framework.png
 label: CVPR
-date: 2024-2-27
+date: 1
 dd: In Press
 author: <b>Yongzhe Yuan</b>, Yue Wu, Xiaolong Fan, Maoguo Gong, Qiguang Miao, Wenping Ma
 tag1: Point Cloud Registration
