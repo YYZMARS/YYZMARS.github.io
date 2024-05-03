@@ -10,7 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+Journal
 {% for post in site.publications reversed %}
   {% include archive-single-pub2.html %}
+{% endfor %}
+Conference
+{% for post in site.publications reversed %}
+  {% include archive-single-pub.html %}
 {% endfor %}
