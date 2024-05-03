@@ -180,7 +180,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publications_j:
     output: true
     permalink: /:collection/:path/
   publications_c:
