@@ -1,6 +1,6 @@
 ---
 title: "Inlier Confidence Calibration for Point Cloud Registration" 
-teaser: framework.png
+teaser: CVPR2024.png
 label: CVPR
 date: 2999-01-01
 dd: In Press
