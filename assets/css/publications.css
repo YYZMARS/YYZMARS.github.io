@@ -5,15 +5,13 @@
     position: absolute;
     bottom: -38px;
     left: 0;  
-/*     width: 80px;  */
-    width: 50%;
+    width: 80px; 
     height: auto;
     background-color: #22b3eb;
     text-align: center;
     z-index: 9999;
     border-radius: 5px;
-/*     font-size: 18px; */
-    font-size: 3vw;
+    font-size: 18px;
 }
 
 .archive__item-image {
