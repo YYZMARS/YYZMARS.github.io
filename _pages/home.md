@@ -20,9 +20,11 @@ I am currently pursuing the Ph.D degree advised by [A/Prof. Yue Wu](https://ywuc
 
 
 <h1>🏆 Awards</h1>
+- National Scholarship, 2024.
 - Excellent MindSpore Developers, 2023.
 - The First Prize at the 7th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, 2022.
 - National Scholarship, 2021.
+
 
 
 <h1>📖 Selected Publications</h1>
