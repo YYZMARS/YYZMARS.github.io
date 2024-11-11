@@ -8,7 +8,7 @@ author: <b>Yongzhe Yuan</b>, Yue Wu, Maoguo Gong, Qiguang Miao, A. K. Qin, Wenpi
 tag1: Point Cloud Registration
 tag2: Unsupervised Learning
 venue: IEEE Transactions on Neural Networks and Learning Systems
-paperurl: 
-codeurl: None
+paperurl: https://ieeexplore.ieee.org/document/10742111
+codeurl: 
 bibtexurl: 
 ---
