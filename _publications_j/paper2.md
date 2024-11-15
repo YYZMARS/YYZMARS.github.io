@@ -9,7 +9,7 @@ tag1: Point Cloud Registration
 tag2: Transformer
 venue: IEEE Transactions on Visualization and Computer Graphics <b>(CCF A)</b>
 paperurl: https://ieeexplore.ieee.org/abstract/document/10319695
-codeurl: https://github.com/ywuchina/TeamCode/tree/main/EGST
+codeurl: https://github.com/YYZMARS/EGST
 bibtexurl: /bibtex/EGST.txt
 ---
 
