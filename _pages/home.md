@@ -18,7 +18,7 @@ I am currently pursuing the Ph.D degree advised by [Prof. Yue Wu](https://ywuchi
 - Multimodal Learning for 3D Computer Vision.
 - Diffusion Model.
 
-If your research interests are similar to mine, I would be delighted to discuss and collaborate with you. Please feel free to reach out to me via email!
+**If your research interests are similar to mine, I would be delighted to discuss and collaborate with you. Please feel free to reach out to me via email!**
 
 
 <h1>🏆 Awards</h1>
