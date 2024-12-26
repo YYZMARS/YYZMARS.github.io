@@ -18,20 +18,6 @@ I am currently pursuing the Ph.D degree advised by [Prof. Yue Wu](https://ywuchi
 - Multimodal Learning for 3D Computer Vision.
 - Diffusion Model.
 
-<h1>📣 News</h1>
-<div class="news" style="overflow:auto; height:150px; Width:99%;">
- <ul>
- <li>[12, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">AAAI 2025</h7>.</li>
- <li>[02, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">CVPR 2024</h7>.</li>
- <li>[12, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">AAAI 2025</h7>.</li>
- <li>[02, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">CVPR 2024</h7>.</li>
- <li>[12, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">AAAI 2025</h7>.</li>
- <li>[02, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">CVPR 2024</h7>.</li>
- <li>[12, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">AAAI 2025</h7>.</li>
- <li>[02, 2024]&nbsp;&nbsp;&nbsp; 1 papers accepted to <h7 style="color: #f44597;">CVPR 2024</h7>.</li>
- </ul>
-</div><br>  
-
 
 <h1>🏆 Awards</h1>
 - National Scholarship, 2024.
