@@ -10,5 +10,6 @@ tag2: Unsupervised
 venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024 <b>(CCF A)</b>
 paperurl: https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Inlier_Confidence_Calibration_for_Point_Cloud_Registration_CVPR_2024_paper.pdf
 codeurl: https://github.com/YYZMARS/ICC
+bibtexurl: /bibtex/ICC.txt
 ---
 
