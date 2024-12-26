@@ -26,7 +26,6 @@ I am currently pursuing the Ph.D degree advised by [Prof. Yue Wu](https://ywuchi
 - National Scholarship, 2021.
 
 
-
 <h1>📖 Selected Publications</h1>
 <h2 style="margin: 0 0 0 0">Journal</h2>
 {% for post in site.publications_j reversed %} {% include archive-single-pub2.html %} {% endfor %}
