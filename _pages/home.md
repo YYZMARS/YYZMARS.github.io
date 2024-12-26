@@ -18,8 +18,6 @@ I am currently pursuing the Ph.D degree advised by [Prof. Yue Wu](https://ywuchi
 - Multimodal Learning for 3D Computer Vision.
 - Diffusion Model.
 
-<h1>📣 News</h1>
-{% include news.html %}
 
 <h1>🏆 Awards</h1>
 - National Scholarship, 2024.
