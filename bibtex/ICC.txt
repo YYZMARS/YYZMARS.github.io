@@ -1,0 +1,7 @@
+@inproceedings{yuan2024inlier,
+  title={Inlier Confidence Calibration for Point Cloud Registration},
+  author={Yuan, Yongzhe and Wu, Yue and Fan, Xiaolong and Gong, Maoguo and Miao, Qiguang and Ma, Wenping},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5312--5321},
+  year={2024}
+}
