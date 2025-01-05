@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently pursuing the Ph.D degree advised by [Prof. Yue Wu](https://ywuchina.github.io/) with the School of Computer Science and Technology, [MoE Key Lab of Collaborative Intelligence Systems](https://cois.xidian.edu.cn/), Xidian University. I was recommended for admission to the School of Computer Science and Technology at Xidian University to pursue a master's degree in 2020. In 2022, I continued my studies as a successive postgraduate and doctoral program student. 
 
+<h1>🎉 News</h1>
+{% include news.html %}
 
 <h1>🔬 Research Interests</h1>
 - Unsupervised/Self-supervised Learning.
