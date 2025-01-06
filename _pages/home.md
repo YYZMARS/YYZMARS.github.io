@@ -19,7 +19,8 @@ I am currently pursuing the Ph.D degree advised by [Prof. Yue Wu](https://ywuchi
 - Diffusion Model.
 
 
-<h1>🏆 Awards</h1>
+<h1>🏆 Honors and Awards</h1>
+- 入选首批中国科协青年人才托举工程博士生专项计划.
 - National Scholarship, 2024.
 - Excellent MindSpore Developers, 2023.
 - The First Prize, CAAI The 7th Chinese Youth Congress on Artifical Intelligence, 2022.
