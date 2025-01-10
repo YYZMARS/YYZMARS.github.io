@@ -2,6 +2,7 @@
 title: "Commonality Autoencoder: Learning Common Features for Change Detection from Heterogeneous Images" 
 teaser: paper1.png
 label: TNNLS
+hcd: YES
 date: 2021-02-18
 dd: February 18, 2021
 author: Yue Wu, Jiaheng Li, <b>Yongzhe Yuan</b>, AK Qin, Qiguang Miao, Maoguo Gong
