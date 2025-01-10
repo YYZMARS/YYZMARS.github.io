@@ -1,5 +1,5 @@
 ---
-title: "EGST: Enhanced Geometric Structure Transformer for Point Cloud Registration" <font color="red">(ESI Highly Cited Paper)</font>
+title: "EGST: Enhanced Geometric Structure Transformer for Point Cloud Registration" <font color="red">"(ESI Highly Cited Paper)"</font>
 teaser: paper2.png
 label: TVCG
 date: 2023-11-16
