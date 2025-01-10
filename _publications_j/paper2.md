@@ -2,6 +2,7 @@
 title: "EGST: Enhanced Geometric Structure Transformer for Point Cloud Registration" 
 teaser: paper2.png
 label: TVCG
+hcp: YES
 date: 2023-11-16
 dd: In Press
 author: <b>Yongzhe Yuan</b>, Yue Wu, Xiaolong Fan, Maoguo Gong, Wenping Ma, Qiguang Miao
