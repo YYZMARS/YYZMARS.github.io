@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Yongzhe Yuan"
   avatar           : "photo.jpg"
-  bio              : "Ph.D. Student @ Xidian University"
+  bio              : "Postdoctoral Fellow @ Northwest University"
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=uLZ8qJkAAAAJ&hl=en"
-  email            : "yyz@stu.xidian.edu.cn"
+  email            : "yuanyz@nwu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
