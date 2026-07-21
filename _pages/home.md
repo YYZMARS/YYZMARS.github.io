@@ -8,15 +8,14 @@ redirect_from:
   - /home.html
 ---
 
-I am currently pursuing the Ph.D degree advised by [Prof. Yue Wu](https://ywuchina.github.io/) with the School of Computer Science and Technology, [MoE Key Lab of Collaborative Intelligence Systems](https://cois.xidian.edu.cn/), Xidian University. I was recommended for admission to the School of Computer Science and Technology at Xidian University to pursue a master's degree in 2020. In 2022, I continued my studies as a successive postgraduate and doctoral program student. 
+I am currently a Postdoctoral Fellow (Ziteng Scholar) in College of Computer Science, Northwest University. I received my PhD degree in from Xidian University in 2026, supervised by [Prof. Yue Wu](https://ywuchina.github.io/) (School of Computer Science and Technology, [MoE Key Lab of Collaborative Intelligence Systems](https://cois.xidian.edu.cn/)). I was recommended for admission to the School of Computer Science and Technology at Xidian University to pursue a master's degree in 2020. In 2022, I continued my studies as a successive postgraduate and doctoral program student. 
 
 
 <h1>🔬 Research Interests</h1>
 - Unsupervised/Self-supervised Learning.
-- Efficient 3D Computer Vision.
+- Point Cloud Change Detection and Change Understanding.
 - Low Overlapping 3D Rigid Point Cloud Registration.
-- Multimodal Learning for 3D Computer Vision.
-- Diffusion Model.
+- 3D MLLM.
 
 
 <h1>🏆 Honors and Awards</h1>
